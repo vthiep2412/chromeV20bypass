@@ -1,4 +1,4 @@
-### Chrome v20 App-Bound Encryption Bypass (Education Purpose Only 🙏😗)
+### Chrome v20 App-Bound Encryption Bypass (Education Purpose Only 🙏😗, Google Fixed!)
 
 #### 1. Privilege Escalation & Impersonation
 The script's core strength lies in its ability to manipulate Windows Access Tokens. 
